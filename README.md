@@ -91,10 +91,30 @@ Distribution shows your error by column.
 
 kps shows your kps and beatmap's requring kps
 
+<br></br>
+### Info Section
+
+![image](https://user-images.githubusercontent.com/53387925/163361726-f95e50e3-4a07-40b4-9999-7cdae17e0696.png)
+
+### There are FOUR main widgets on Info Section (could be added more)
+* OD Changer
+  + It Changes entire OD for this graph.
+* Original Judgement
+  + It shows judgements without changing offsets
+* Modified Judgement
+  + It shows judgements with centered offsets
+* Offsets
+  + It shows offerts and std(Standard Division). std shows how precise you hit.
+  + Offset for H-T shows how late you release LN.
+
+
 </details>
+
 <details>
 <summary>Skin Toolbox </summary>
   
+Skin Toolbox
+------------
 </details>
 
 Buy us coffee
